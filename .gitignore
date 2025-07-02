@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Submission tarball
+handin.tar
+
+# Mac system file
+.DS_Store
