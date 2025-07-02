@@ -1,4 +1,4 @@
-# MyTorch – CNN from Scratch using NumPy 🧠🔧
+# MyTorch – CNN from Scratch using NumPy
 
 This project is part of the **AI702: Deep Learning** course at MBZUAI (Spring 2024).  
 The goal is to build a **Convolutional Neural Network (CNN)** from scratch using **NumPy**, without relying on PyTorch or any deep learning framework.
